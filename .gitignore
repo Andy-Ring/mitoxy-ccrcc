@@ -1,7 +1,9 @@
 notebooks/exploratory.ipynb
+figures/figure1/
 figures/figure_1/
 figures/figure_1_revised/
 figures/final_figures/
+
 # Public data are downloaded by the notebooks
 data/*
 !data/provenance/
