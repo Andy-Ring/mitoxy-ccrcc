@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864.9pt" height="440.28pt" viewBox="0 0 864.9 440.28" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-21T16:12:39.262149</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 440.28 
+L 864.9 440.28 
+L 864.9 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 160.8975 109.0332 
+L 166.9239 109.0332 
+L 166.9239 76.0464 
+L 160.8975 76.0464 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 163.9107 144.34848 
+L 805.7223 144.34848 
+Q 814.7619 144.34848 814.7619 139.69152 
+L 814.7619 117.57096 
+Q 814.7619 112.914 805.7223 112.914 
+L 163.9107 112.914 
+Q 154.8711 112.914 154.8711 117.57096 
+L 154.8711 139.69152 
+Q 154.8711 144.34848 163.9107 144.34848 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #e7f5f0"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 165.4173 201.39624 
+L 804.2157 201.39624 
+Q 814.7619 201.39624 814.7619 195.96312 
+L 814.7619 149.39352 
+Q 814.7619 143.9604 804.2157 143.9604 
+L 165.4173 143.9604 
+Q 154.8711 143.9604 154.8711 149.39352 
+L 154.8711 195.96312 
+Q 154.8711 201.39624 165.4173 201.39624 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #f3f7f8; stroke: #d9e1e7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 160.8975 198.2916 
+L 166.1706 198.2916 
+L 166.1706 147.06504 
+L 160.8975 147.06504 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 594.7983 189.36576 
+L 677.6613 189.36576 
+Q 688.2075 189.36576 688.2075 183.93264 
+L 688.2075 161.424 
+Q 688.2075 155.99088 677.6613 155.99088 
+L 594.7983 155.99088 
+Q 584.2521 155.99088 584.2521 161.424 
+L 584.2521 183.93264 
+Q 584.2521 189.36576 594.7983 189.36576 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ddf3ec"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 165.4173 257.27976 
+L 804.2157 257.27976 
+Q 814.7619 257.27976 814.7619 251.84664 
+L 814.7619 205.27704 
+Q 814.7619 199.84392 804.2157 199.84392 
+L 165.4173 199.84392 
+Q 154.8711 199.84392 154.8711 205.27704 
+L 154.8711 251.84664 
+Q 154.8711 257.27976 165.4173 257.27976 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ffffff; stroke: #d9e1e7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 160.8975 254.17512 
+L 166.1706 254.17512 
+L 166.1706 202.94856 
+L 160.8975 202.94856 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 594.7983 245.24928 
+L 677.6613 245.24928 
+Q 688.2075 245.24928 688.2075 239.81616 
+L 688.2075 217.30752 
+Q 688.2075 211.8744 677.6613 211.8744 
+L 594.7983 211.8744 
+Q 584.2521 211.8744 584.2521 217.30752 
+L 584.2521 239.81616 
+Q 584.2521 245.24928 594.7983 245.24928 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ddf3ec"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 165.4173 313.16328 
+L 804.2157 313.16328 
+Q 814.7619 313.16328 814.7619 307.73016 
+L 814.7619 261.16056 
+Q 814.7619 255.72744 804.2157 255.72744 
+L 165.4173 255.72744 
+Q 154.8711 255.72744 154.8711 261.16056 
+L 154.8711 307.73016 
+Q 154.8711 313.16328 165.4173 313.16328 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #f3f7f8; stroke: #d9e1e7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 160.8975 310.05864 
+L 166.1706 310.05864 
+L 166.1706 258.83208 
+L 160.8975 258.83208 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 594.7983 301.1328 
+L 677.6613 301.1328 
+Q 688.2075 301.1328 688.2075 295.69968 
+L 688.2075 273.19104 
+Q 688.2075 267.75792 677.6613 267.75792 
+L 594.7983 267.75792 
+Q 584.2521 267.75792 584.2521 273.19104 
+L 584.2521 295.69968 
+Q 584.2521 301.1328 594.7983 301.1328 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ddf3ec"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 165.4173 369.0468 
+L 804.2157 369.0468 
+Q 814.7619 369.0468 814.7619 363.61368 
+L 814.7619 317.04408 
+Q 814.7619 311.61096 804.2157 311.61096 
+L 165.4173 311.61096 
+Q 154.8711 311.61096 154.8711 317.04408 
+L 154.8711 363.61368 
+Q 154.8711 369.0468 165.4173 369.0468 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ffffff; stroke: #d9e1e7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 160.8975 365.94216 
+L 166.1706 365.94216 
+L 166.1706 314.7156 
+L 160.8975 314.7156 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 594.7983 357.01632 
+L 677.6613 357.01632 
+Q 688.2075 357.01632 688.2075 351.5832 
+L 688.2075 329.07456 
+Q 688.2075 323.64144 677.6613 323.64144 
+L 594.7983 323.64144 
+Q 584.2521 323.64144 584.2521 329.07456 
+L 584.2521 351.5832 
+Q 584.2521 357.01632 594.7983 357.01632 
+z
+" clip-path="url(#p09815f80c3)" style="fill: #ddf3ec"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 25px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="179.73" y="84.481917" transform="rotate(-0 179.73 84.481917)">Independent clinical validation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6573" x="179.73" y="102.062403" transform="rotate(-0 179.73 102.062403)">E-MTAB-1980  •  models adjusted for age and sex  •  effect per 1-SD increase in Mitoxy</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007a5a" x="183.4965" y="131.618545" transform="rotate(-0 183.4965 131.618545)">CLINICAL ENDPOINT</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007a5a" x="469.7505" y="131.618545" transform="rotate(-0 469.7505 131.618545)">MODEL</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #007a5a" x="635.4765" y="131.618545" transform="rotate(-0 635.4765 131.618545)">ADJUSTED EFFECT</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #007a5a" x="748.4715" y="131.618545" transform="rotate(-0 748.4715 131.618545)">P VALUE</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="183.4965" y="171.660253" transform="rotate(-0 183.4965 171.660253)">Fuhrman grade</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #788391" x="183.4965" y="186.144234" transform="rotate(-0 183.4965 186.144234)">Ordinal histologic grade  •  n = 99</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6573" x="469.7505" y="175.925879" transform="rotate(-0 469.7505 175.925879)">Linear regression</text>
+   </g>
+   <g id="text_10">
+    <!-- $\beta$ = 0.28 -->
+    <g style="fill: #007a5a" transform="translate(603.7498 176.386679)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-style: oblique; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">β</tspan>
+      <tspan x="8.93457" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a"> </tspan>
+      <tspan x="13.808594" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">=</tspan>
+      <tspan x="25.539062" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a"> </tspan>
+      <tspan x="30.413086" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">0</tspan>
+      <tspan x="40.154297" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">.</tspan>
+      <tspan x="45.472656" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">2</tspan>
+      <tspan x="55.213867" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">8</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- $P$ = 7.0e-05 -->
+    <g style="fill: #1f2933" transform="translate(706.8715 176.055273)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">P</tspan>
+      <tspan x="7.839355" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="12.365234" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">=</tspan>
+      <tspan x="23.257812" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="27.783691" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">7</tspan>
+      <tspan x="36.829102" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">.</tspan>
+      <tspan x="41.767578" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="50.812988" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">e</tspan>
+      <tspan x="59.629883" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">-</tspan>
+      <tspan x="65.025391" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="74.070801" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">5</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="183.4965" y="227.543167" transform="rotate(-0 183.4965 227.543167)">T category</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #788391" x="183.4965" y="242.027754" transform="rotate(-0 183.4965 242.027754)">Ordinal pathologic T category  •  n = 101</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6573" x="469.7505" y="231.809399" transform="rotate(-0 469.7505 231.809399)">Linear regression</text>
+   </g>
+   <g id="text_15">
+    <!-- $\beta$ = 0.30 -->
+    <g style="fill: #007a5a" transform="translate(603.7498 232.270199)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-style: oblique; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">β</tspan>
+      <tspan x="8.93457" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a"> </tspan>
+      <tspan x="13.808594" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">=</tspan>
+      <tspan x="25.539062" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a"> </tspan>
+      <tspan x="30.413086" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">0</tspan>
+      <tspan x="40.154297" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">.</tspan>
+      <tspan x="45.472656" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">3</tspan>
+      <tspan x="55.213867" y="-0.28125" style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; fill: #007a5a">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- $P$ = 9.1e-04 -->
+    <g style="fill: #1f2933" transform="translate(706.8715 231.938793)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">P</tspan>
+      <tspan x="7.839355" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="12.365234" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">=</tspan>
+      <tspan x="23.257812" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="27.783691" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">9</tspan>
+      <tspan x="36.829102" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">.</tspan>
+      <tspan x="41.767578" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">1</tspan>
+      <tspan x="50.812988" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">e</tspan>
+      <tspan x="59.629883" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">-</tspan>
+      <tspan x="65.025391" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="74.070801" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="183.4965" y="283.427293" transform="rotate(-0 183.4965 283.427293)">T3–T4 disease</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #788391" x="183.4965" y="297.911274" transform="rotate(-0 183.4965 297.911274)">Advanced local disease  •  n = 101</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6573" x="469.7505" y="287.692919" transform="rotate(-0 469.7505 287.692919)">Logistic regression</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #007a5a" x="636.2298" y="288.082079" transform="rotate(-0 636.2298 288.082079)">OR = 2.11</text>
+   </g>
+   <g id="text_21">
+    <!-- $P$ = 0.006 -->
+    <g style="fill: #1f2933" transform="translate(713.9565 287.822313)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">P</tspan>
+      <tspan x="7.839355" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="12.365234" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">=</tspan>
+      <tspan x="23.257812" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="27.783691" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="36.829102" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">.</tspan>
+      <tspan x="41.767578" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="50.812988" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="59.858398" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="183.4965" y="339.310813" transform="rotate(-0 183.4965 339.310813)">M1 disease</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #788391" x="183.4965" y="353.794794" transform="rotate(-0 183.4965 353.794794)">Metastatic disease  •  n = 101</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5b6573" x="469.7505" y="343.576439" transform="rotate(-0 469.7505 343.576439)">Logistic regression</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #007a5a" x="636.2298" y="343.965599" transform="rotate(-0 636.2298 343.965599)">OR = 1.92</text>
+   </g>
+   <g id="text_26">
+    <!-- $P$ = 0.036 -->
+    <g style="fill: #1f2933" transform="translate(713.9565 343.705833)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">P</tspan>
+      <tspan x="7.839355" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="12.365234" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">=</tspan>
+      <tspan x="23.257812" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933"> </tspan>
+      <tspan x="27.783691" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="36.829102" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">.</tspan>
+      <tspan x="41.767578" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">0</tspan>
+      <tspan x="50.812988" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">3</tspan>
+      <tspan x="59.858398" y="-0.34375" style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #1f2933">6</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #788391" x="160.8975" y="420.580491" transform="rotate(-0 160.8975 420.580491)">β values are standardized linear-regression coefficients; odds ratios are reported per 1-SD increase in Mitoxy.</text>
+   </g>
+  </g>
+  <g id="text_28">
+   <text style="font-weight: 700; font-size: 34px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f2933" x="7.2" y="33.032031" transform="rotate(-0 7.2 33.032031)">D</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p09815f80c3">
+   <rect x="104.4" y="45" width="753.3" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

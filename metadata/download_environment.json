@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-09-22T14:48:51.142881+00:00",
+  "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:38:13) [GCC 12.3.0]",
+  "platform": "Linux-5.14.0-503.31.1.el9_5.x86_64-x86_64-with-glibc2.34",
+  "target_genes": [
+    "BAK1",
+    "BAX",
+    "BID",
+    "SLC7A11"
+  ],
+  "package_versions": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scipy": "1.18.0",
+    "openpyxl": "3.1.5",
+    "cptac": "1.5.14"
+  }
+}
