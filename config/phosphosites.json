@@ -1,0 +1,23 @@
+{
+  "sites": {
+    "NDRG1": [
+      "T328",
+      "T366"
+    ],
+    "RICTOR": [
+      "S1388",
+      "S1577"
+    ],
+    "PRKCA": [
+      "T497",
+      "T638"
+    ],
+    "MTOR": [
+      "S2448"
+    ]
+  },
+  "definition": "Six recoverable historical canonical sites plus separately specified MTOR S2448.",
+  "unrecoverable_historical_site": "MTOR T2474 is absent from the public package export; S2448 is a distinct sensitivity, not an equivalent label.",
+  "missingness": "No phosphosite imputation; report per-site N.",
+  "multiplicity": "BH separately across the seven raw and seven protein-adjusted tests."
+}

@@ -1,0 +1,634 @@
+[
+  {
+    "path": "TRACERx/tumour_tpm.rds",
+    "url": "https://raw.githubusercontent.com/sanroman-24/tx100_rna_2024/3fefd80afe33cafc091b3154dbd32d8c27b92c81/data/processed/tumour_tpm.rds",
+    "sha256": "fd438e245bd1ca9392e401193f891d19024436c8786c1baa440ab9f6a192d461",
+    "bytes": 35530712,
+    "role": "public_input"
+  },
+  {
+    "path": "TRACERx/tx_annotation.tsv",
+    "url": "https://raw.githubusercontent.com/sanroman-24/tx100_rna_2024/3fefd80afe33cafc091b3154dbd32d8c27b92c81/data/meta/tx_annotation.tsv",
+    "sha256": "165272243c9ebc371f4426b5e6b3949b97ec53a6da4d6b7032392be34ecc8dc0",
+    "bytes": 44284,
+    "role": "public_input"
+  },
+  {
+    "path": "TRACERx/TRACERx_s1_1_clinical.txt",
+    "url": "https://raw.githubusercontent.com/sanroman-24/tx100_rna_2024/3fefd80afe33cafc091b3154dbd32d8c27b92c81/data/meta/TRACERx_s1_1_clinical.txt",
+    "sha256": "72864009160d7be8c330856d5b8eea467a0248b35651b5aac19b1edd0caa0577",
+    "bytes": 13842,
+    "role": "public_input"
+  },
+  {
+    "path": "CPTAC/HS_CPTAC_CCRCC_RNAseq_fpkm_log2_Tumor.cct",
+    "url": "https://linkedomics.org/data_download/CPTAC-CCRCC/HS_CPTAC_CCRCC_RNAseq_fpkm_log2_Tumor.cct",
+    "sha256": "f7cd6fe435c1be7cfe902780432e637d277ea7bb6e63d1805647a29004f3b1c9",
+    "bytes": 23037690,
+    "role": "public_input"
+  },
+  {
+    "path": "CPTAC/S044_CPTAC_CCRCC_Discovery_Cohort_Clinical_Data_r1_Sept2018.xlsx",
+    "url": "https://cptac-data-portal.georgetown.edu/cptac/documents/S044_CPTAC_CCRCC_Discovery_Cohort_Clinical_Data_r1_Sept2018.xlsx",
+    "sha256": "9cebd0de8570a1c18271aba88497e168c5ecf15cadb76a47b8a6196855b12db1",
+    "bytes": 29512,
+    "role": "public_input"
+  },
+  {
+    "path": "genesets/h.all.v2024.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2024.1.Hs/h.all.v2024.1.Hs.symbols.gmt",
+    "sha256": "ee2463540042078bfa3f67828e1e223bb354446d9fbb4d22845866835ba5c772",
+    "bytes": 48690,
+    "role": "public_input"
+  },
+  {
+    "path": "GSE235046/GSE235046_series.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235046&targ=self&form=text&view=full",
+    "sha256": "a962b41a118c80f7529ccfdb553c54871780a11721b82cf72a54f8dafa7cfa42",
+    "bytes": 3117,
+    "role": "provenance_metadata"
+  },
+  {
+    "path": "GSE235046/GSE235046_Count_table.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE235nnn/GSE235046/suppl/GSE235046_Count_table.txt.gz",
+    "sha256": "683ec07b3d81ea8cb6b834b08e071ba9ec2b89f49c61ac303029864b1a110906",
+    "bytes": 1110939,
+    "role": "public_input"
+  },
+  {
+    "path": "GSE235046/GSE235046_family.soft",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE235046&targ=all&form=text&view=full",
+    "sha256": "04b7de017e9832fe91812abd005c2dc934fd5e09ebe3bef384b80e42f34df09a",
+    "bytes": 32118305,
+    "role": "provenance_metadata"
+  },
+  {
+    "path": "GSE159115/GSE159115_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159115/soft/GSE159115_family.soft.gz",
+    "group": "GSE159115",
+    "role": "public_metadata",
+    "sha256": "4ef0dad3928c7e6e3615f939a9bf69dc3b36512e128bd97fb80b5ab953ee68c7",
+    "bytes": 3229
+  },
+  {
+    "path": "GSE159115/GSM4819725_SI_18854_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819725/suppl/GSM4819725_SI_18854_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819725",
+    "sha256": "fa8702bb155ec249f92da4ed9813f7fccfb530c8bf087e9a63c3c3bb6190a17b",
+    "bytes": 8457467
+  },
+  {
+    "path": "GSE159115/GSM4819726_SI_18856_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819726/suppl/GSM4819726_SI_18856_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819726",
+    "sha256": "c83522b22a08f84911fca872f179739b935d21fa6e4d5dd4774b50f3a25de950",
+    "bytes": 3991117
+  },
+  {
+    "path": "GSE159115/GSM4819727_SI_18855_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819727/suppl/GSM4819727_SI_18855_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819727",
+    "sha256": "2b228f7b6cf9bffc6123e29a172da35328061651b9d75912d17f7fde5da2d56c",
+    "bytes": 6515682
+  },
+  {
+    "path": "GSE159115/GSM4819728_SI_19704_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819728/suppl/GSM4819728_SI_19704_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819728",
+    "sha256": "fd9cd9d40560dfce7e4705cacf0c8c95d80a941fa7034e5822dd6b731351c599",
+    "bytes": 3317296
+  },
+  {
+    "path": "GSE159115/GSM4819729_SI_19703_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819729/suppl/GSM4819729_SI_19703_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819729",
+    "sha256": "36cee422866995c61371740794c2f82719dcc3fb79250ccd9c24628da3e29ffb",
+    "bytes": 13285336
+  },
+  {
+    "path": "GSE159115/GSM4819730_SI_21255_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819730/suppl/GSM4819730_SI_21255_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819730",
+    "sha256": "b7c06ce452aa6eb71ee71169cab068455eb4453c0e1678b05c3d3a839eecd922",
+    "bytes": 2599484
+  },
+  {
+    "path": "GSE159115/GSM4819731_SI_21256_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819731/suppl/GSM4819731_SI_21256_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819731",
+    "sha256": "61f68337d8168e5f2a280ad84c6415fe80a428dd8fec2d3bc68471a97807e174",
+    "bytes": 2053289
+  },
+  {
+    "path": "GSE159115/GSM4819733_SI_22369_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819733/suppl/GSM4819733_SI_22369_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819733",
+    "sha256": "a7316230aaf3125e2887f1c7a5885d5882675f9440b17953a93cfc8757bac7b2",
+    "bytes": 2728652
+  },
+  {
+    "path": "GSE159115/GSM4819734_SI_22368_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819734/suppl/GSM4819734_SI_22368_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819734",
+    "sha256": "d69003f2fcc5447e37c39154a1b3e916361951471f161176e6ec9c97da11e9f4",
+    "bytes": 5147678
+  },
+  {
+    "path": "GSE159115/GSM4819735_SI_22605_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819735/suppl/GSM4819735_SI_22605_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819735",
+    "sha256": "ede1ea5117684c662cd8baab01d21ebd09f2e407b4ea722f400eae21a812ddf0",
+    "bytes": 7127939
+  },
+  {
+    "path": "GSE159115/GSM4819736_SI_22604_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819736/suppl/GSM4819736_SI_22604_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819736",
+    "sha256": "0afdcabab49b31bc2031819c7f6b1a55a355d436d7a7361e0a93670b460321e5",
+    "bytes": 9945449
+  },
+  {
+    "path": "GSE159115/GSM4819737_SI_23459_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819737/suppl/GSM4819737_SI_23459_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819737",
+    "sha256": "6096086e525778104bf86a52e9e6936ac08ccaf6a4211f6c7f937dbafe3bc520",
+    "bytes": 26850987
+  },
+  {
+    "path": "GSE159115/GSM4819738_SI_23843_filtered_gene_bc_matrices_h5.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819738/suppl/GSM4819738_SI_23843_filtered_gene_bc_matrices_h5.h5",
+    "group": "GSE159115",
+    "role": "public_input",
+    "sample": "GSM4819738",
+    "sha256": "3e55147db06f6b014b16cf5297af4d7d695f42bd68494d725014303fc54c52e1",
+    "bytes": 14900751
+  },
+  {
+    "path": "GSE159115/GSE159115_ccRCC_anno.csv.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159115/suppl/GSE159115_ccRCC_anno.csv.gz",
+    "group": "GSE159115",
+    "role": "public_annotation",
+    "sha256": "98a60cc1be5631f34532af00c3392d7c6bf56f25a9b8819c908c84b960b4c765",
+    "bytes": 927306
+  },
+  {
+    "path": "GSE159115/GSE159115_normal_anno.csv.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159115/suppl/GSE159115_normal_anno.csv.gz",
+    "group": "GSE159115",
+    "role": "public_annotation",
+    "sha256": "09f5d35478503c5c7b374cef8a2992d93974204308b7011120ba4176f3aff3c1",
+    "bytes": 277476
+  },
+  {
+    "path": "GSE210041/GSE210041_family.soft.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE210nnn/GSE210041/soft/GSE210041_family.soft.gz",
+    "group": "GSE210041",
+    "role": "public_metadata",
+    "sha256": "4b2e804b2d8ee5de119f3a10a41fc387cdc9babafaeae9237de7eeb933a86d83",
+    "bytes": 3267
+  },
+  {
+    "path": "GSE210041/GSM6415705_GLMF1_filtered_feature_bc_matrix.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415705/suppl/GSM6415705_GLMF1_filtered_feature_bc_matrix.h5",
+    "group": "GSE210041",
+    "role": "public_input",
+    "sample": "GSM6415705",
+    "sha256": "6d584117fa81908d1f3acf6171f3b35e53b59981c4f212cad34b2cdf4b07179d",
+    "bytes": 20505765
+  },
+  {
+    "path": "GSE210041/GSM6415705_GLMF1_spatial.tar.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415705/suppl/GSM6415705_GLMF1_spatial.tar.gz",
+    "group": "GSE210041",
+    "role": "public_input",
+    "sample": "GSM6415705",
+    "sha256": "c4cf78dd1e89dd78b2e356bbfaa7a00c71757d1c65f72abb060c596815eeba73",
+    "bytes": 8585099
+  },
+  {
+    "path": "GSE210041/GSM6415706_GLMF2_filtered_feature_bc_matrix.h5",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415706/suppl/GSM6415706_GLMF2_filtered_feature_bc_matrix.h5",
+    "group": "GSE210041",
+    "role": "public_input",
+    "sample": "GSM6415706",
+    "sha256": "c0369e871b951e44fe7fc83e53d0b77d02e64a4f786dc8cb1c51d5ffb13aa2ae",
+    "bytes": 22239872
+  },
+  {
+    "path": "GSE210041/GSM6415706_GLMF2_spatial.tar.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415706/suppl/GSM6415706_GLMF2_spatial.tar.gz",
+    "group": "GSE210041",
+    "role": "public_input",
+    "sample": "GSM6415706",
+    "sha256": "615d34e0ac94453cc7422f598a56a485c19263f654b54d7fc0a8dcc7e15ab9eb",
+    "bytes": 9345867
+  },
+  {
+    "path": "CheckMate025/Braun2020_Supplementary_Tables.xlsx",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-020-0839-y/MediaObjects/41591_2020_839_MOESM2_ESM.xlsx",
+    "sha256": "a1f8683676d416b255291dcaa007aa0fa48c736c23e6a7a566664ba528bf205b",
+    "bytes": 125569016,
+    "role": "public_input",
+    "group": "CheckMate025"
+  },
+  {
+    "path": "cptac_ccrcc_public/HS_CPTAC_CCRCC_proteome_Tumor.txt",
+    "url": "https://linkedomics.org/data_download/CPTAC-CCRCC/HS_CPTAC_CCRCC_proteome_Tumor.cct",
+    "group": "CPTAC ccRCC",
+    "role": "tumor protein abundance",
+    "sha256": "16e75796570a56d854094d119140587814026eb6356240596fa3667da513e9c2",
+    "bytes": 19368136
+  },
+  {
+    "path": "e_mtab_1980_public/A-MEXP-2183.adf.txt",
+    "url": "https://www.ebi.ac.uk/biostudies/files/A-MEXP-2183/A-MEXP-2183.adf.txt",
+    "group": "E-MTAB-1980",
+    "role": "A-MEXP-2183.adf.txt",
+    "sha256": "d1e490431494ea07ab14c1849b61212a862bb2f73b2575114c219be28b23788f",
+    "bytes": 7261766
+  },
+  {
+    "path": "e_mtab_1980_public/E-MTAB-1980.idf.txt",
+    "url": "https://www.ebi.ac.uk/biostudies/files/E-MTAB-1980/E-MTAB-1980.idf.txt",
+    "group": "E-MTAB-1980",
+    "role": "E-MTAB-1980.idf.txt",
+    "sha256": "7326265769294b5ec3ed58543a0cf1a9606d25a954284e8e9053772146259ab1",
+    "bytes": 2949
+  },
+  {
+    "path": "e_mtab_1980_public/E-MTAB-1980.sdrf.txt",
+    "url": "https://www.ebi.ac.uk/biostudies/files/E-MTAB-1980/E-MTAB-1980.sdrf.txt",
+    "group": "E-MTAB-1980",
+    "role": "E-MTAB-1980.sdrf.txt",
+    "sha256": "204d06ca459b70c8a55f5e0cb3220b1967190eefe4a6ebe49df1fb9fe426e67a",
+    "bytes": 60861
+  },
+  {
+    "path": "e_mtab_1980_public/Sato_2013_Supplementary_Table_1_patient_characteristics.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fng.2699/MediaObjects/41588_2013_BFng2699_MOESM35_ESM.xlsx",
+    "group": "E-MTAB-1980",
+    "role": "Sato_2013_Supplementary_Table_1_patient_characteristics.xlsx",
+    "sha256": "95e2acd59821b08fab854e6f0d13f9f6f7b844b84b05cd31a8a465e391e677b5",
+    "bytes": 37487
+  },
+  {
+    "path": "e_mtab_1980_public/ccRCC_exp_log_quantile_normalized.txt",
+    "url": "https://www.ebi.ac.uk/biostudies/files/E-MTAB-1980/ccRCC_exp_log_quantile_normalized.txt",
+    "group": "E-MTAB-1980",
+    "role": "ccRCC_exp_log_quantile_normalized.txt",
+    "sha256": "fc55279b2f8210e42c88fe1a857ae79b0b3605fb69c222f9d721f5765eae1f2c",
+    "bytes": 53072899
+  },
+  {
+    "path": "tcga_kirc_public/TCGA_mastercalls.abs_tables_JSedit.fixed.txt",
+    "url": "https://api.gdc.cancer.gov/data/4f277128-f793-4354-a13d-30cc7fe9f6b5",
+    "group": "TCGA-KIRC",
+    "role": "ABSOLUTE purity",
+    "sha256": "f430a975433d82e0098d7405619d4f12a0c765fcd97e7d63cc9b1de7f2d763cd",
+    "bytes": 901812
+  },
+  {
+    "path": "tcga_kirc_public/TCGA.KIRC.sampleMap_HiSeqV2.gz",
+    "url": "https://tcga.xenahubs.net/download/TCGA.KIRC.sampleMap/HiSeqV2.gz",
+    "group": "TCGA-KIRC",
+    "role": "tumor RNA expression",
+    "sha256": "17717853fc21d4f0e40239827a01e73486a61ab47def732b29999f0667a3b6da",
+    "bytes": 32349770
+  },
+  {
+    "path": "genesets/c5.go.bp.v2024.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2024.1.Hs/c5.go.bp.v2024.1.Hs.symbols.gmt",
+    "sha256": "71df041c352cc810c11847db328bb94925c5448a009f310d224f2e8baa60b792",
+    "bytes": 4940222,
+    "role": "public_gene_sets",
+    "group": "genesets"
+  },
+  {
+    "path": "genesets/c2.cp.reactome.v2024.1.Hs.symbols.gmt",
+    "url": "https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2024.1.Hs/c2.cp.reactome.v2024.1.Hs.symbols.gmt",
+    "sha256": "9ea1b5e656597daf423e41c5ebcaa9892bfedf3292fff768605d7b0d5e5e9703",
+    "bytes": 852693,
+    "role": "public_gene_sets",
+    "group": "genesets"
+  },
+  {
+    "path": "TCGA-immune/cibersort_relative.tsv",
+    "url": "https://api.gdc.cancer.gov/data/b3df502e-3594-46ef-9f94-d041a20a0b9a",
+    "sha256": "8bf3d2cb511d272eeb674d59fbe44c4cdaa1d6031b9dbe06559b6b0fe2a2b305",
+    "bytes": 3818975,
+    "group": "TCGA-immune",
+    "role": "public_input"
+  },
+  {
+    "path": "TCGA-immune/estimate_leukocyte.tsv",
+    "url": "https://api.gdc.cancer.gov/data/6f75c9d7-5134-4ed1-b8f3-72856c98a4e8",
+    "sha256": "5a8268caedbf8dc98a75be0528d583238d7355761d9fc746e42002f223a982d9",
+    "bytes": 560473,
+    "group": "TCGA-immune",
+    "role": "public_input"
+  },
+  {
+    "path": "CPTAC/Clark2019_TableS1.xlsx",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867419311237-mmc1.xlsx",
+    "group": "CPTAC clinical",
+    "role": "clinical supplement",
+    "sha256": "3174a83fa98e0416bedaf28e4f7526b8a70f0fe1954da5994dbabe470f6fd078",
+    "bytes": 115514
+  },
+  {
+    "path": "TRACERx/Supplementary_Table1.xlsx",
+    "url": "https://raw.githubusercontent.com/sanroman-24/tx100_rna_2024/3fefd80afe33cafc091b3154dbd32d8c27b92c81/analysis/outputs/sup_tables/Supplementary_Table1.xlsx",
+    "group": "TRACERx supplementary",
+    "role": "public_input",
+    "sha256": "ea8905df279c7cf9a703ffa9a7b2e8499f091358267bb692ddc4f6b99c457e2a",
+    "bytes": 439835
+  },
+  {
+    "path": "JAVELIN/Motzer2020_Supplementary_Tables.xlsx",
+    "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-020-1044-8/MediaObjects/41591_2020_1044_MOESM3_ESM.xlsx",
+    "group": "JAVELIN",
+    "role": "clinical and molecular tables",
+    "sha256": "673c5fd66813e3267b3a514074ac22d090a258b1094b45119d592405d5f663ed",
+    "bytes": 125767390
+  },
+  {
+    "path": "ClearCode34/xn.rda",
+    "url": "https://raw.githubusercontent.com/aedin/KidneyCancerSubtypes/80397fa9a5e34f93e4a558d1785a908ff9b83a76/data/xn.rda",
+    "group": "ClearCode34",
+    "role": "published_classifier_reference",
+    "sha256": "f0ab1e0ab79d4f4c431cf5b452f557105707d0ff46ea0734616b425aab31cf3b",
+    "bytes": 10464
+  },
+  {
+    "path": "ClearCode34/classes.rda",
+    "url": "https://raw.githubusercontent.com/aedin/KidneyCancerSubtypes/80397fa9a5e34f93e4a558d1785a908ff9b83a76/data/classes.rda",
+    "group": "ClearCode34",
+    "role": "published_classifier_reference",
+    "sha256": "2dd8964e957c12f937ba09a2cb57d56992f544968aa7a94373d63c2eae8453ea",
+    "bytes": 78
+  },
+  {
+    "path": "ClearCode34/fData.model.Rda",
+    "url": "https://raw.githubusercontent.com/aedin/KidneyCancerSubtypes/80397fa9a5e34f93e4a558d1785a908ff9b83a76/data/fData.model.Rda",
+    "group": "ClearCode34",
+    "role": "published_classifier_reference",
+    "sha256": "d661f649e2cf519b164af5110e2192fe1b845fbb38f690fbf6ed50db3c251223",
+    "bytes": 802
+  },
+  {
+    "path": "ClearCode34/Median533_scalingFactor.txt",
+    "url": "https://raw.githubusercontent.com/aedin/KidneyCancerSubtypes/80397fa9a5e34f93e4a558d1785a908ff9b83a76/data/Median533_scalingFactor.txt",
+    "group": "ClearCode34",
+    "role": "published_classifier_reference",
+    "sha256": "3bc39786b7ef9db4b774ec858bfb64ba9b57a923e3af1c38a3215b84f2d5ffd5",
+    "bytes": 301
+  },
+  {
+    "path": "ClearCode34/ClearCode34Table.rda",
+    "url": "https://raw.githubusercontent.com/aedin/KidneyCancerSubtypes/80397fa9a5e34f93e4a558d1785a908ff9b83a76/data/ClearCode34Table.rda",
+    "group": "ClearCode34",
+    "role": "published_classifier_reference",
+    "sha256": "9692a5a1e1b5f96f3d8b016a6d0fd5301c601aed0d126039cf5b00450f5c0b69",
+    "bytes": 1662
+  },
+  {
+    "path": "CPTAC-package/broad-ccrcc-mapping-gencode.v34.GRCh38.genes.collapsed_only.gtf.gz",
+    "url": "https://zenodo.org/api/records/8394329/files/broad-ccrcc-mapping-gencode.v34.GRCh38.genes.collapsed_only.gtf.gz/content",
+    "group": "CPTAC-package",
+    "role": "public_input",
+    "bytes": 8050116,
+    "sha256": "5f755b1028368af705dbecc2e0d8ffa91bc0274bfba8d325c9f6b1a593ebba3b"
+  },
+  {
+    "path": "CPTAC-package/broad-ccrcc-mapping-sample_descriptions.tsv.gz",
+    "url": "https://zenodo.org/api/records/8394329/files/broad-ccrcc-mapping-sample_descriptions.tsv.gz/content",
+    "group": "CPTAC-package",
+    "role": "public_input",
+    "bytes": 33956,
+    "sha256": "c9eb4d1007e18afd901e41897c9559bd36b63abe138a3735a8f68cef15b29065"
+  },
+  {
+    "path": "CPTAC-package/broad-ccrcc-transcriptomics-CCRCC.rsem_transcripts_tpm.txt.gz",
+    "url": "https://zenodo.org/api/records/8394329/files/broad-ccrcc-transcriptomics-CCRCC.rsem_transcripts_tpm.txt.gz/content",
+    "group": "CPTAC-package",
+    "role": "public_input",
+    "bytes": 36359620,
+    "sha256": "acdc227c7b099a21adfabe93fd5169ea3aa3077d714a509a886670b1ae3e0622"
+  },
+  {
+    "path": "CPTAC-package/umich-ccrcc-mapping-aliquot_to_patient_ID.tsv.gz",
+    "url": "https://zenodo.org/api/records/8394329/files/umich-ccrcc-mapping-aliquot_to_patient_ID.tsv.gz/content",
+    "group": "CPTAC-package",
+    "role": "public_input",
+    "bytes": 22882,
+    "sha256": "e1f3849d8610457cca0eb03be88559b57ddff8d04d598435aa7d454a205a49ce"
+  },
+  {
+    "path": "CPTAC-package/umich-ccrcc-phosphoproteomics-Report_abundance_groupby=multi-site_protNorm=MD_gu=2.tsv.gz",
+    "url": "https://zenodo.org/api/records/8394329/files/umich-ccrcc-phosphoproteomics-Report_abundance_groupby=multi-site_protNorm=MD_gu=2.tsv.gz/content",
+    "group": "CPTAC-package",
+    "role": "public_input",
+    "bytes": 73559975,
+    "sha256": "154f2d213ce78eab8b3f187539d31e8153d373af8304eda05b5f61c2d42c3232"
+  },
+  {
+    "path": "UniProt/Q92597.fasta",
+    "group": "UniProt",
+    "url": "https://rest.uniprot.org/uniprotkb/Q92597.fasta",
+    "role": "phosphosite_sequence_reference",
+    "sha256": "3adb3dfd65056d7b0a7f6d3b89e596b94ea623fe96aa61bb858f13923899e236",
+    "bytes": 481
+  },
+  {
+    "path": "UniProt/Q6R327.fasta",
+    "group": "UniProt",
+    "url": "https://rest.uniprot.org/uniprotkb/Q6R327.fasta",
+    "role": "phosphosite_sequence_reference",
+    "sha256": "8a601400561604770c2ab139f0633e083665e2e6e568ef2392e115f3ed62283e",
+    "bytes": 1844
+  },
+  {
+    "path": "UniProt/P17252.fasta",
+    "group": "UniProt",
+    "url": "https://rest.uniprot.org/uniprotkb/P17252.fasta",
+    "role": "phosphosite_sequence_reference",
+    "sha256": "d9409533c209697dffc634eafc52e21e019099bc221935a2260fb4c50a586e59",
+    "bytes": 777
+  },
+  {
+    "path": "UniProt/P42345.fasta",
+    "group": "UniProt",
+    "url": "https://rest.uniprot.org/uniprotkb/P42345.fasta",
+    "role": "phosphosite_sequence_reference",
+    "sha256": "183f68147d9fc264c9561688122f200ccd33d44df2b4f9beecd1d8b05382ddf8",
+    "bytes": 2693
+  },
+  {
+    "path": "TCGA-TPM/TCGA-KIRC.star_tpm.tsv.gz",
+    "url": "https://gdc.xenahubs.net/download/TCGA-KIRC.star_tpm.tsv.gz",
+    "group": "TCGA-TPM",
+    "role": "public_input",
+    "bytes": 178315217,
+    "sha256": "70ab9bb0faa27cc76003626546c2f87658606a240781f591552d88176de3c3b9"
+  },
+  {
+    "path": "TCGA-TPM/TCGA-KIRC.star_tpm.tsv.json",
+    "url": "https://gdc.xenahubs.net/download/TCGA-KIRC.star_tpm.tsv.json",
+    "group": "TCGA-TPM",
+    "role": "public_input",
+    "bytes": 832,
+    "sha256": "fb25923701ecc540c6d2266b33af5541efb48d555dee952bf9daa5ec93f83110"
+  },
+  {
+    "path": "TCGA-TPM/gencode.v36.annotation.gtf.gene.probemap",
+    "url": "https://gdc.xenahubs.net/download/gencode.v36.annotation.gtf.gene.probemap",
+    "group": "TCGA-TPM",
+    "role": "public_input",
+    "bytes": 3206945,
+    "sha256": "f027752d663b1da74f4113998bf008e6ebecfa3732607513e027bb6eb1f635b5"
+  },
+  {
+    "path": "EPIC/EPIC.tar.gz",
+    "url": "https://codeload.github.com/GfellerLab/EPIC/tar.gz/50a4f404f96c2842b2891b517b4e3bfaa6c64b8f",
+    "group": "EPIC",
+    "role": "public_input",
+    "bytes": 4681303,
+    "sha256": "f78bef558fc06db3537aabdbad0460ed29a2a82546f7bfc45841f830525166f3"
+  },
+  {
+    "path": "CPTAC/Clark2019_TableS7.xlsx",
+    "group": "CPTAC supplementary",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0092867419311237-mmc7.xlsx",
+    "role": "published_supplement",
+    "sha256": "8729820900628ffe791ac3d4300ee18eec0077eee3a8b9fbafbae09c687d528a",
+    "bytes": 3069842
+  },
+  {
+    "path": "kinases/substrates.tsv",
+    "group": "kinases",
+    "url": "https://omnipathdb.org/enzsub?genesymbols=1&fields=sources,references",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "c7ad35ea0f13dd546d444c5178c685f77810931e003d3c56601f443674953c6a",
+    "bytes": 4974142
+  },
+  {
+    "path": "kinases/sequences_00.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AO00141+OR+accession%3AO00213+OR+accession%3AO00327+OR+accession%3AO00418+OR+accession%3AO00559+OR+accession%3AO14490+OR+accession%3AO14492+OR+accession%3AO14746+OR+accession%3AO14757+OR+accession%3AO14920+OR+accession%3AO15111+OR+accession%3AO15119+OR+accession%3AO15151+OR+accession%3AO15360+OR+accession%3AO15519+OR+accession%3AO15530+OR+accession%3AO43464+OR+accession%3AO43521+OR+accession%3AO43524+OR+accession%3AO43900+OR+accession%3AO60285+OR+accession%3AO60343+OR+accession%3AO60381+OR+accession%3AO60716+OR+accession%3AO60825+OR+accession%3AO60841+OR+accession%3AO75143+OR+accession%3AO75376+OR+accession%3AO75385+OR+accession%3AO75446",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "f8745a45097cd29370a522714dd289e0dcfa70d10418787245557ef9bc35fa60",
+    "bytes": 25933
+  },
+  {
+    "path": "kinases/sequences_01.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AO75494+OR+accession%3AO94763+OR+accession%3AO95999+OR+accession%3AO96004+OR+accession%3AP01106+OR+accession%3AP02489+OR+accession%3AP02545+OR+accession%3AP03372+OR+accession%3AP04049+OR+accession%3AP04150+OR+accession%3AP04406+OR+accession%3AP04637+OR+accession%3AP04792+OR+accession%3AP05106+OR+accession%3AP07550+OR+accession%3AP07814+OR+accession%3AP08047+OR+accession%3AP08151+OR+accession%3AP08670+OR+accession%3AP09601+OR+accession%3AP09651+OR+accession%3AP10275+OR+accession%3AP10276+OR+accession%3AP10636+OR+accession%3AP11137+OR+accession%3AP12755+OR+accession%3AP14136+OR+accession%3AP14598+OR+accession%3AP14618+OR+accession%3AP14672",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "2ac7e7ab558437f4d19e5a9bb3d186017198f5668b9f84fe2c191f2221da866b",
+    "bytes": 20920
+  },
+  {
+    "path": "kinases/sequences_02.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AP15056+OR+accession%3AP15311+OR+accession%3AP15976+OR+accession%3AP16070+OR+accession%3AP16220+OR+accession%3AP17542+OR+accession%3AP17600+OR+accession%3AP18031+OR+accession%3AP19484+OR+accession%3AP19634+OR+accession%3AP21453+OR+accession%3AP22736+OR+accession%3AP23396+OR+accession%3AP23443+OR+accession%3AP23588+OR+accession%3AP23769+OR+accession%3AP24941+OR+accession%3AP25490+OR+accession%3AP26358+OR+accession%3AP26678+OR+accession%3AP27708+OR+accession%3AP28482+OR+accession%3AP29317+OR+accession%3AP29401+OR+accession%3AP29474+OR+accession%3AP29475+OR+accession%3AP30291+OR+accession%3AP30305+OR+accession%3AP30405+OR+accession%3AP31749",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "44c37b3ed2302af955a0a9c56dbb880cdbbdf9a305021e59494bb506ac4fbf98",
+    "bytes": 22776
+  },
+  {
+    "path": "kinases/sequences_03.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AP31751+OR+accession%3AP35222+OR+accession%3AP35226+OR+accession%3AP35240+OR+accession%3AP35568+OR+accession%3AP36776+OR+accession%3AP37088+OR+accession%3AP38398+OR+accession%3AP38936+OR+accession%3AP40763+OR+accession%3AP41279+OR+accession%3AP42224+OR+accession%3AP42261+OR+accession%3AP42345+OR+accession%3AP42858+OR+accession%3AP43003+OR+accession%3AP43243+OR+accession%3AP45985+OR+accession%3AP46527+OR+accession%3AP46937+OR+accession%3AP48048+OR+accession%3AP48431+OR+accession%3AP48552+OR+accession%3AP48764+OR+accession%3AP49760+OR+accession%3AP49815+OR+accession%3AP49840+OR+accession%3AP49841+OR+accession%3AP49918+OR+accession%3AP49959",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "475c99d66262502261652d8ce58eb8babbfa38a331a6140e7dfdbcf6e4d12199",
+    "bytes": 28501
+  },
+  {
+    "path": "kinases/sequences_04.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AP50539+OR+accession%3AP51397+OR+accession%3AP51617+OR+accession%3AP51812+OR+accession%3AP52789+OR+accession%3AP53365+OR+accession%3AP53396+OR+accession%3AP53602+OR+accession%3AP53804+OR+accession%3AP54253+OR+accession%3AP54274+OR+accession%3AP54578+OR+accession%3AP54646+OR+accession%3AP55042+OR+accession%3AP55072+OR+accession%3AP55211+OR+accession%3AP60484+OR+accession%3AP62136+OR+accession%3AP62753+OR+accession%3AP62995+OR+accession%3AP63000+OR+accession%3AP63104+OR+accession%3AP67809+OR+accession%3AP78362+OR+accession%3AP78371+OR+accession%3AP84022+OR+accession%3AP84243+OR+accession%3AP98170+OR+accession%3AP98177+OR+accession%3AQ00536",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "fe9b03d21dbb0b482e776b2162592dada687f0d1d72850bec0d5745c0afb55fa",
+    "bytes": 18900
+  },
+  {
+    "path": "kinases/sequences_05.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ00613+OR+accession%3AQ00987+OR+accession%3AQ01130+OR+accession%3AQ01860+OR+accession%3AQ01970+OR+accession%3AQ02156+OR+accession%3AQ04912+OR+accession%3AQ05195+OR+accession%3AQ05209+OR+accession%3AQ06787+OR+accession%3AQ07352+OR+accession%3AQ07812+OR+accession%3AQ07817+OR+accession%3AQ08999+OR+accession%3AQ09161+OR+accession%3AQ09472+OR+accession%3AQ12778+OR+accession%3AQ12789+OR+accession%3AQ12906+OR+accession%3AQ12933+OR+accession%3AQ12972+OR+accession%3AQ13043+OR+accession%3AQ13131+OR+accession%3AQ13153+OR+accession%3AQ13158+OR+accession%3AQ13188+OR+accession%3AQ13243+OR+accession%3AQ13263+OR+accession%3AQ13309+OR+accession%3AQ13322",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "cb51811982b579c9f17632688fb96eccf392ba2ec65ae723129407b3ccda0a05",
+    "bytes": 24070
+  },
+  {
+    "path": "kinases/sequences_06.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ13370+OR+accession%3AQ13418+OR+accession%3AQ13501+OR+accession%3AQ13522+OR+accession%3AQ13523+OR+accession%3AQ13541+OR+accession%3AQ13557+OR+accession%3AQ14004+OR+accession%3AQ14247+OR+accession%3AQ14739+OR+accession%3AQ14934+OR+accession%3AQ15027+OR+accession%3AQ15080+OR+accession%3AQ15121+OR+accession%3AQ15139+OR+accession%3AQ15149+OR+accession%3AQ15349+OR+accession%3AQ15365+OR+accession%3AQ15418+OR+accession%3AQ15652+OR+accession%3AQ15672+OR+accession%3AQ15811+OR+accession%3AQ15831+OR+accession%3AQ15910+OR+accession%3AQ15942+OR+accession%3AQ16584+OR+accession%3AQ16629+OR+accession%3AQ16763+OR+accession%3AQ16828+OR+accession%3AQ16873",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "a33814ca0bb22b788c4a6ca4f0fdda6a90bd485f54e93b1c35b4698b6256f65b",
+    "bytes": 27507
+  },
+  {
+    "path": "kinases/sequences_07.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ16875+OR+accession%3AQ2PPJ7+OR+accession%3AQ3V6T2+OR+accession%3AQ53EL6+OR+accession%3AQ53ET0+OR+accession%3AQ5VWQ8+OR+accession%3AQ5XUX0+OR+accession%3AQ6PIY7+OR+accession%3AQ6PKG0+OR+accession%3AQ6R327+OR+accession%3AQ6ZWJ1+OR+accession%3AQ7L5N1+OR+accession%3AQ7Z589+OR+accession%3AQ7Z6J0+OR+accession%3AQ86V81+OR+accession%3AQ86VP3+OR+accession%3AQ86YN6+OR+accession%3AQ86YS7+OR+accession%3AQ8IYB3+OR+accession%3AQ8IYW5+OR+accession%3AQ8N122+OR+accession%3AQ8N3Y1+OR+accession%3AQ8N6T7+OR+accession%3AQ8N884+OR+accession%3AQ8N9L9+OR+accession%3AQ8NCD3+OR+accession%3AQ8ND76+OR+accession%3AQ8NHG8+OR+accession%3AQ8TAQ2+OR+accession%3AQ8TB45",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "a4c4a801b25acb375f7a825a404c94539f249ccbee830d630e77e78b88bc355a",
+    "bytes": 27842
+  },
+  {
+    "path": "kinases/sequences_08.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ8TF01+OR+accession%3AQ8WWI1+OR+accession%3AQ8WX93+OR+accession%3AQ92519+OR+accession%3AQ92597+OR+accession%3AQ92736+OR+accession%3AQ92766+OR+accession%3AQ92922+OR+accession%3AQ92934+OR+accession%3AQ92945+OR+accession%3AQ969H0+OR+accession%3AQ96B36+OR+accession%3AQ96F24+OR+accession%3AQ96J92+OR+accession%3AQ96KG9+OR+accession%3AQ96PU5+OR+accession%3AQ96QB1+OR+accession%3AQ96S44+OR+accession%3AQ96ST2+OR+accession%3AQ99250+OR+accession%3AQ99490+OR+accession%3AQ99543+OR+accession%3AQ99640+OR+accession%3AQ99683+OR+accession%3AQ99759+OR+accession%3AQ9BPZ7+OR+accession%3AQ9BVI0+OR+accession%3AQ9BWT1+OR+accession%3AQ9BY77+OR+accession%3AQ9BZQ8",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "99c72e143cc3c6348e9981964d4b52a8305903b21d913eb777fa45bc8e511461",
+    "bytes": 33231
+  },
+  {
+    "path": "kinases/sequences_09.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ9C0C2+OR+accession%3AQ9C0C7+OR+accession%3AQ9GZT9+OR+accession%3AQ9GZV1+OR+accession%3AQ9H063+OR+accession%3AQ9H0K1+OR+accession%3AQ9H1K1+OR+accession%3AQ9H2Y7+OR+accession%3AQ9H3D4+OR+accession%3AQ9H3Z4+OR+accession%3AQ9H4A3+OR+accession%3AQ9H6Z4+OR+accession%3AQ9H9Q4+OR+accession%3AQ9HBA0+OR+accession%3AQ9HCE7+OR+accession%3AQ9NPC1+OR+accession%3AQ9NPG3+OR+accession%3AQ9NRY4+OR+accession%3AQ9NWV8+OR+accession%3AQ9NYL9+OR+accession%3AQ9NYV6+OR+accession%3AQ9NZ63+OR+accession%3AQ9P0L2+OR+accession%3AQ9P1A6+OR+accession%3AQ9P2Y5+OR+accession%3AQ9UBK2+OR+accession%3AQ9UBP6+OR+accession%3AQ9UBS0+OR+accession%3AQ9UD71+OR+accession%3AQ9UDY2",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "440c4e7a237fdc75f745524069cb7bd9ab1b517b7abbc6af5b303c07908b4893",
+    "bytes": 26388
+  },
+  {
+    "path": "kinases/sequences_10.fasta",
+    "group": "kinases",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?format=fasta&query=accession%3AQ9UGU0+OR+accession%3AQ9UKV3+OR+accession%3AQ9UKV8+OR+accession%3AQ9UL18+OR+accession%3AQ9ULJ3+OR+accession%3AQ9UN36+OR+accession%3AQ9UPY5+OR+accession%3AQ9UQ35+OR+accession%3AQ9UQC2+OR+accession%3AQ9Y261+OR+accession%3AQ9Y2I7+OR+accession%3AQ9Y2J4+OR+accession%3AQ9Y2V2+OR+accession%3AQ9Y3C5+OR+accession%3AQ9Y4H2+OR+accession%3AQ9Y4I1",
+    "role": "curated_kinase_sequence_reference",
+    "sha256": "9375ec580b14a8e8f30e16882e781e9982de2caff053bf5587d60ffc926074cf",
+    "bytes": 19069
+  },
+  {
+    "path": "ClearCode34/Brooks2014_TableS3.doc",
+    "group": "ClearCode34",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S030228381400164X-mmc3.doc",
+    "role": "published_TCGA_reference_calls",
+    "sha256": "2b9376062b4d4b91fdb50cef2d6f5e46a881f804bfc8ae11e03aa328d778c6c7",
+    "bytes": 847872
+  }
+]

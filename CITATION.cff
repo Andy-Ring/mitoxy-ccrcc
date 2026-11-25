@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated manuscript."
+title: "Reproducibility code for a mitoxyperiosis-related transcriptional state in ccRCC"
+type: software
+authors:
+  - family-names: Ring
+    given-names: Andrew
+  - family-names: Xi
+    given-names: Yaguang
+version: "2.1.0"
+
+repository-code: "https://github.com/Andy-Ring/mitoxy-ccrcc"

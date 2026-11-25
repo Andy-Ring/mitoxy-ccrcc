@@ -1,0 +1,236 @@
+[
+  {
+    "output": "Figure 1",
+    "stages": [
+      "figure1"
+    ],
+    "files": [
+      "figures/Figure_1.pdf"
+    ]
+  },
+  {
+    "output": "Figure 2",
+    "stages": [
+      "figure2"
+    ],
+    "files": [
+      "figures/Figure_2.pdf"
+    ]
+  },
+  {
+    "output": "Figure 3",
+    "stages": [
+      "figure3"
+    ],
+    "files": [
+      "figures/Figure_3.pdf"
+    ]
+  },
+  {
+    "output": "Figure 4",
+    "stages": [
+      "figure4"
+    ],
+    "files": [
+      "figures/Figure_4.pdf"
+    ]
+  },
+  {
+    "output": "Figure 5",
+    "stages": [
+      "figure5"
+    ],
+    "files": [
+      "figures/Figure_5.pdf"
+    ]
+  },
+  {
+    "output": "Figure 6",
+    "stages": [
+      "figure6"
+    ],
+    "files": [
+      "figures/Figure_6.pdf"
+    ]
+  },
+  {
+    "output": "Figure 7",
+    "stages": [
+      "figure7"
+    ],
+    "files": [
+      "figures/Figure_7.pdf"
+    ]
+  },
+  {
+    "output": "Figure S1",
+    "stages": [
+      "supplement1"
+    ],
+    "files": [
+      "figures/Figure_S1.pdf"
+    ]
+  },
+  {
+    "output": "Figure S2",
+    "stages": [
+      "supplement2"
+    ],
+    "files": [
+      "figures/Figure_S2.pdf"
+    ]
+  },
+  {
+    "output": "Figure S3",
+    "stages": [
+      "supplement3"
+    ],
+    "files": [
+      "figures/Figure_S3.pdf"
+    ]
+  },
+  {
+    "output": "Figure S4",
+    "stages": [
+      "supplement4"
+    ],
+    "files": [
+      "figures/Figure_S4.pdf"
+    ]
+  },
+  {
+    "output": "Figure S5",
+    "stages": [
+      "cellular_plots"
+    ],
+    "files": [
+      "figures/Figure_S5.pdf"
+    ]
+  },
+  {
+    "output": "Figure S6",
+    "stages": [
+      "supplement6"
+    ],
+    "files": [
+      "figures/Figure_S6.pdf"
+    ]
+  },
+  {
+    "output": "Figure S7",
+    "stages": [
+      "umap_plots"
+    ],
+    "files": [
+      "figures/Figure_S7.pdf"
+    ]
+  },
+  {
+    "output": "Figure S8",
+    "stages": [
+      "supplement8"
+    ],
+    "files": [
+      "figures/Figure_S8.pdf"
+    ]
+  },
+  {
+    "output": "Table S1",
+    "stages": [
+      "tables"
+    ],
+    "files": [
+      "tables/Supplementary_Table_S1.xlsx",
+      "results/bulk/TCGA_models.csv",
+      "results/bulk/CPTAC_models.csv",
+      "results/bulk/TRACERx_models.csv",
+      "data/processed/figure_1_clean/panel_b_grade_summary.csv",
+      "data/processed/figure_1_clean/panel_c_stage_summary.csv",
+      "data/processed/figure_1_clean/panel_d_cptac_coherence.csv",
+      "data/processed/figure_1_clean/panel_e_tracerx_summary.csv",
+      "data/processed/figure_2_clean/panels_a_b_purity_models.csv",
+      "data/processed/figure_2_clean/panel_c_locked_matched_null.csv",
+      "data/processed/figure_2_clean/panel_d_global_pc_robustness.csv",
+      "data/processed/figure_7_clean/panel_d_contrasts.csv",
+      "data/processed/figure_7_clean/panel_e_specificity.csv",
+      "results/source_de/GSEA_all.csv",
+      "results/TRACERx_models.csv",
+      "results/TRACERx_PC1_loadings.csv",
+      "results/evolution/ITH_dispersion.csv",
+      "results/evolution/reverse_PC1.csv",
+      "results/immune/TCGA_immune_models.csv",
+      "results/immune/TCGA_immune_VIF.csv",
+      "results/GSE159115/macrophage_tumor_paired.csv",
+      "results/GSE159115/celltype_summary.csv",
+      "results/proteomics/mTOR_RNA_protein.csv",
+      "results/proteomics/seven_phosphosites.csv",
+      "results/proteomics/phosphosite_identity_mapping.csv",
+      "results/GSE210041/archived_summary.csv",
+      "results/GSE210041/hypoxia_coupling.csv",
+      "results/GSE210041/definition_ranges.csv",
+      "results/GSE210041/spatial_grid_all_definitions.csv.gz",
+      "data/processed/supplementary_figure_s1/panel_a_tracerx_clinical.csv",
+      "data/processed/supplementary_figure_s1/panel_b_emtab_adjusted.csv",
+      "data/processed/supplementary_figure_s1/panel_c_emtab_survival.csv",
+      "data/processed/supplementary_figure_s1/panel_d_tcga_survival.csv",
+      "data/processed/figure_4_clean/panel_c_variance_partition.csv",
+      "data/processed/supplementary_figure_s4/panel_a_gene_regional_variation.csv",
+      "data/processed/supplementary_figure_s4/panel_b_evolution_omnibus.csv"
+    ]
+  },
+  {
+    "output": "Table S2",
+    "stages": [
+      "tables"
+    ],
+    "files": [
+      "tables/Supplementary_Table_S2.xlsx",
+      "results/TCGA_sensitivities/models.csv",
+      "results/pathways/TCGA_Hallmark_competitive_sample_permutation.csv",
+      "results/pathways/TCGA_Hallmark_sample_permutation.csv",
+      "results/signatures/equal45_models.csv",
+      "results/signatures/equal45_correlations.csv",
+      "results/JAVELIN/within_arm_PFS.csv",
+      "results/JAVELIN/context_correlations.csv",
+      "results/JAVELIN/cluster_summary.csv",
+      "results/JAVELIN/partial_coupling.csv",
+      "data/processed/figure_6_clean/panel_a_2d_subgroups.csv",
+      "data/processed/figure_6_clean/panel_b_full_fdr_family.csv",
+      "data/processed/figure_6_clean/panel_c_context_interactions.csv",
+      "results/CheckMate025/within_arm_models.csv",
+      "results/CheckMate025/interaction_models.csv",
+      "results/TCGA_sensitivities/ClearCode34_adjusted_models.csv",
+      "results/LIANA/main/macro_to_T_per_patient_summary.csv",
+      "results/LIANA/main/macro_to_T_interaction_consistency.csv",
+      "results/LIANA/umi_adjusted/macro_to_T_interaction_consistency.csv",
+      "results/LIANA/main/macrophage_ligands_High_vs_Low.csv",
+      "results/LIANA/main/patient_T_programs_vs_macrophage_Equal4.csv",
+      "results/LIANA/cellchat/cellchat_macro_to_T_summary.csv",
+      "results/LIANA/cellchat/cellchat_interaction_consistency.csv",
+      "results/TCGA_sensitivities/ClearCode34_benchmark.csv",
+      "results/TCGA_sensitivities/ClearCode34_score_summary.csv"
+    ]
+  },
+  {
+    "output": "Table S3",
+    "stages": [
+      "tables"
+    ],
+    "files": [
+      "tables/Supplementary_Table_S3.xlsx",
+      "results/architecture/common_patient_components.csv",
+      "results/architecture/emtab_components.csv",
+      "results/architecture/inflammatory_coupling.csv",
+      "results/architecture/pc1_concordance.csv",
+      "results/signatures/ssGSEA45_models.csv",
+      "results/subtypes/immune_subtype_models.csv",
+      "results/EPIC/adjusted_models.csv",
+      "results/EPIC/coverage.csv",
+      "results/GSE159115/broad_compartment_tests.csv",
+      "results/proteomics/adjusted_mTOR_RNA.csv",
+      "results/proteomics/kinase_activity_models.csv",
+      "results/proteomics/kinase_coverage.csv",
+      "results/CPTAC_proliferation_models.csv"
+    ]
+  }
+]

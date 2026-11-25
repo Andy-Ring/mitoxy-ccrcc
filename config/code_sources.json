@@ -1,0 +1,544 @@
+{
+  "base_repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+  "base_commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+  "files": [
+    {
+      "path": "src/mitoxy/__init__.py",
+      "sha256": "360f0e98e60fcf978a5bed0e6cd9c548bf6831329c9e07795f87f90088835b6b",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/__init__.py",
+      "source_sha256": "360f0e98e60fcf978a5bed0e6cd9c548bf6831329c9e07795f87f90088835b6b"
+    },
+    {
+      "path": "src/mitoxy/analysis.py",
+      "sha256": "6ad7b547e20dcea3b23a704835c8696fc615bf3989321dc1e383bf897f85128e",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/analysis.py",
+      "source_sha256": "6bbe5a90f57f8fecad66e8efe21e6dc1bc3f74efae5fb1cccc3066aeacbfc7cd"
+    },
+    {
+      "path": "src/mitoxy/bulk.py",
+      "sha256": "c24f162d6d7e41dd56aec034923d474d03b92046a830a4a28ae6f68e1125d50e",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/cellular.py",
+      "sha256": "e97e5a53d990fe8437933c38e2275acfee31064ac32c043b6f51ffcff395251c",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/cellular.py",
+      "source_sha256": "bbd2d3c70248321473bc1a628cb7eba95625ab440ab9cdc5ba9c2978a7d51443",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/checkmate.py",
+      "sha256": "3e185d7c1aaaf141cad13e59b188d6bf35452c66bbf44e9dbfb4a49d0009a994",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/checkmate.py",
+      "source_sha256": "3e185d7c1aaaf141cad13e59b188d6bf35452c66bbf44e9dbfb4a49d0009a994"
+    },
+    {
+      "path": "src/mitoxy/clearcode.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "7b111bdedd2e4c98c6e7eae49cf8c178a4a4d5c08301afc7057ca4786f5cdbde",
+      "method_lineage": [
+        "PI supplied clearcode34_tcga.py",
+        "published KidneyCancerSubtypes algorithm",
+        "generated publisher reference-table parser"
+      ]
+    },
+    {
+      "path": "src/mitoxy/clinical.py",
+      "sha256": "92a50c98aaaceaf0062f52ad889f8c7b492532dda13ad381683bc52b10fbb1ea",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/data.py",
+      "sha256": "c6453577289c231b7060ee435b331c9b8a0a545a794a9163b628fb77d2acadb4",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/data.py",
+      "source_sha256": "0aaa50f6ff40308ff567b15a9ea1381ae0f9533839aedd80a2b24bb113698815"
+    },
+    {
+      "path": "src/mitoxy/deconvolution.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "a5997a556899d07c713036d2b1b4eae13f46d334bd4dd2b50cc3dd940fe0fd72",
+      "method_lineage": [
+        "PI supplied revision_immune.py and revision_additional.py",
+        "generated public Xena TPM input builder"
+      ]
+    },
+    {
+      "path": "src/mitoxy/evolution.py",
+      "sha256": "386f950ddc9950bc9d4d9e9bab44ad94ecc6210cc493096d22a73c7f7bad38f1",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/extensions.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "ed5d301b673dab8a68ec98de646acdd049e504c0b4d554721a2aebce7b826b5e",
+      "method_lineage": [
+        "PI supplied javelin_cptac_coupling_and_45gene.py",
+        "PI supplied TCGA_leave_one_gene_out.py",
+        "PI supplied score45_models.py",
+        "generated public-input adaptations"
+      ]
+    },
+    {
+      "path": "src/mitoxy/figures.py",
+      "sha256": "d9014be1f98fb87311adf307e0c31a50566af995d89a51fade978781666f103e",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/immune.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "0257243c1fb7b2ca22b8c521182d4b05709a11b0c9a81bd666e68e1d9526fc4e",
+      "method_lineage": [
+        "PI supplied reconcile_tcga_immune.py",
+        "generated GDC PanImmune input joins"
+      ],
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/input_qc.py",
+      "sha256": "30a8bf6104e59bf73585953a934e63f89ed28bd8ecc4bff0d0acd1695ec9502b",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/input_qc.py",
+      "source_sha256": "30a8bf6104e59bf73585953a934e63f89ed28bd8ecc4bff0d0acd1695ec9502b"
+    },
+    {
+      "path": "src/mitoxy/notebooks.py",
+      "sha256": "2949ad6805d2a4c424061e2a813e64fdf92c4cc9b41bd05ce2ed37c3ab40ebf8",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23"
+    },
+    {
+      "path": "src/mitoxy/pathways.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "5ea45e8a9d7ffd99664a91b9434906ae769a80f7910c20e8edfdfc921277d61d",
+      "method_lineage": [
+        "PI supplied competitive_gsea_adjusted.py",
+        "PI supplied proliferation_and_permutations.py",
+        "generated public-input adapters"
+      ],
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/proteomics.py",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "6ab331386bb9697456ad18e272cf852a888e8f950183781ee38e281064dd9c8e",
+      "method_lineage": [
+        "PI supplied revision_extended.py kinase routine",
+        "public CPTAC package data conventions",
+        "generated sequence-verified layer analyses"
+      ]
+    },
+    {
+      "path": "src/mitoxy/recovered_inputs.py",
+      "sha256": "c24d05e8c78ca5e27d90ef708850c7cc459e958b3e835309ef644cfe710f2780",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/recovered_inputs.py",
+      "source_sha256": "a5aca82fa2834775107fc1d7b107f7cb5d7e46ae62188bd850736712b8f44577"
+    },
+    {
+      "path": "src/mitoxy/reproduction_plots.py",
+      "sha256": "174bc9471ab561e7ebf7aac714f60207a614aa5969aa3d9cfe33a55dac090dbe",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/reproduction_plots.py",
+      "source_sha256": "c2d253d31ff68143667098bc8d784aea8665c77733c0cbd1c68fa6d9f1f33a55",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/source.py",
+      "sha256": "210558a7ec0ca1b7d236b80e9123d60cff1e554b50cd2dbef5abfb73abc9c9e9",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23"
+    },
+    {
+      "path": "src/mitoxy/spatial.py",
+      "sha256": "ac5ad51c898a626624d982f1918abb24a6358bb5409a37557dd239108fcaa4a2",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/spatial.py",
+      "source_sha256": "ac5ad51c898a626624d982f1918abb24a6358bb5409a37557dd239108fcaa4a2"
+    },
+    {
+      "path": "src/mitoxy/supplementary_plots.py",
+      "sha256": "d04131af73bd56f2e89730c87fd43e862f148673f35ab611e5a07e5a8bdc115d",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "src/mitoxy/supplements.py",
+      "sha256": "1f4d410296b8d85a43c98aac10bb01641e014ac43895507a7345abc1b2cc6043",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23"
+    },
+    {
+      "path": "src/mitoxy/survival.py",
+      "sha256": "b02c9a8cf0c1cdd3c0ed8a09d0b1a9c6981fbd2951e0c4d3c45dcd502a5829d3",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/survival.py",
+      "source_sha256": "b02c9a8cf0c1cdd3c0ed8a09d0b1a9c6981fbd2951e0c4d3c45dcd502a5829d3"
+    },
+    {
+      "path": "src/mitoxy/tenx.py",
+      "sha256": "88cd1262a3bbc0478040a835b5d1315647dcf93038af3e8a06a7f55359a328b7",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/tenx.py",
+      "source_sha256": "88cd1262a3bbc0478040a835b5d1315647dcf93038af3e8a06a7f55359a328b7"
+    },
+    {
+      "path": "src/mitoxy/workflow.py",
+      "sha256": "66870ab3d33a19a04ad226a3cfc2d23ca8a6b7b121a5c90edd5858ce6e641674",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "src/mitoxy/workflow.py",
+      "source_sha256": "cb87e06f43b43b5eea2b1e9a4b90e4a9315b8be23c69ff1c742b1b3cc8d85048",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "scripts/cell_communication/cellchat_confirm.py",
+      "sha256": "255eba9cc8e5d7f633e6be7a2c0931c8b5a513a06afbfeab9673c31d703c0e00",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "scripts/cell_communication/cellchat_confirm.py",
+      "source_sha256": "255eba9cc8e5d7f633e6be7a2c0931c8b5a513a06afbfeab9673c31d703c0e00"
+    },
+    {
+      "path": "scripts/cell_communication/liana_gse159115.py",
+      "sha256": "f4be96a152622a470374e3ff24197200cb62728a291a5bb8547a7d05750dcb9e",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "scripts/cell_communication/liana_gse159115.py",
+      "source_sha256": "f4be96a152622a470374e3ff24197200cb62728a291a5bb8547a7d05750dcb9e"
+    },
+    {
+      "path": "scripts/cell_communication/paired_exact.py",
+      "sha256": "6dfa46f0b63f03039b0800b92dc3dc4e923e7a95ad2df3134c612e3b97f7f6c2",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "scripts/cell_communication/paired_exact.py",
+      "source_sha256": "6dfa46f0b63f03039b0800b92dc3dc4e923e7a95ad2df3134c612e3b97f7f6c2"
+    },
+    {
+      "path": "scripts/export_tables.py",
+      "sha256": "853a527dc8eaa0b9f13c8c71ea55b99794d40c2e67d09f27209909f2b93397a2",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "scripts/reproduce.py",
+      "sha256": "36bf811471b11d66e7b41d356c01d03b7fa478b83f6faba6ed1d14e0e5e0f688",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "scripts/reproduce.py",
+      "source_sha256": "93c913cbac02444673798bb55f4bb4f5f1754c2ec5f62848e4279a60f4f1a0a0"
+    },
+    {
+      "path": "scripts/run_epic.R",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "1965848badf223b60361831e09070865c1f088c9caf3a9755aa093d156c7dcfc",
+      "method_lineage": [
+        "PI supplied epic_revision.R",
+        "generated versioned-source loader"
+      ]
+    },
+    {
+      "path": "scripts/run_slurm.sh",
+      "sha256": "ee7f6ca10737eabb0275e885d7e41f8ad09198040d7ae2dbc0d04e2eb094e8ff",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23"
+    },
+    {
+      "path": "notebooks/00_Public_Data.ipynb",
+      "sha256": "307cc4b861a110191653372b5c6436a24a0d65a58709214a888227a27cf3ae86",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/01_Source_Experiment.ipynb",
+      "sha256": "69a7b5fc51465f97306d8c4bd2a9848da4f1f969d45ee53bbfc721b47999ceec",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/02_Bulk_Clinical.ipynb",
+      "sha256": "ce45f5fd39a9d77329fe47e036da02c6160003b865076b0a0e495eab191db958",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/03_Bulk_Comparators.ipynb",
+      "sha256": "604c95e1121a174bc042fedd9f183e8c6b2afe9e2dfe0ea962e98e3311efe180",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/04_TRACERx.ipynb",
+      "sha256": "4d17d5517e56ae8b53cfb0c95d201c7799591756b9db92b0f6d295e264c87efb",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/05_Cellular.ipynb",
+      "sha256": "be764cb625dfb36f58e8fcb4ebb43567565751280b60f16dbf6c88589db19de7",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/06_Spatial.ipynb",
+      "sha256": "0e1ee26b53f4f735381dbca595f6d13bdd8cfa6e0dde823469c4e6bdf492b1b0",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/07_Treatment.ipynb",
+      "sha256": "f1e891cfeb479651b6e2c476fd8dc9b03a41c27718b33087352228d9b8fc4600",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/08_Communication.ipynb",
+      "sha256": "0696bcff59282499f65bab8072e37f3704ae16182c240be0215ce8b6b7d114af",
+      "origin": "generated for this repository build",
+      "date": "2026-11-23",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/09_Immune_and_Protein.ipynb",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "67f627e5b66a20722391621218ac08239ef251dcf8b96633dccff15099d9ae18"
+    },
+    {
+      "path": "notebooks/10_All_Outputs.ipynb",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "59bc5f8557bfbfdb20a3b8e944341da5d153e04f898d4915f00dff60a7d73334"
+    },
+    {
+      "path": "notebooks/cohorts/clinical/analysis.ipynb",
+      "sha256": "cf65d820f675df4abd45cae2c54ddd1c948afb020b3991adc389aafb6cf16f19",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_1/01_Figure1_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/evolution/analysis.ipynb",
+      "sha256": "f56fcccd166dba7a60f5ec2cbfc41502a7f25dcf13505d3b999b64778c9e5ba8",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_4/01_Figure4_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/evolution_sensitivity/analysis.ipynb",
+      "sha256": "6fdbbf03c76a5b4c54c33e8464f35d96a82de4348e0e9904b4dd9fffe9005a26",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_S4/S4_TRACERx_Regional_Evolution_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/source/analysis.ipynb",
+      "sha256": "6bab6a96c3323affd5f6685cf3c8f8519dbfcbb85e53776bc22623a8599a3adc",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_7/01_Figure7_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/survival/analysis.ipynb",
+      "sha256": "12a88da44ca6d997eb6b592577cf44fd9c47ace2b807a28e8c414495fc44c58d",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_S1/S1_Clinical_Survival_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/tcga/analysis.ipynb",
+      "sha256": "f4f41ff8eb9ec32ec40a4c7c21471cc4133a5aef5895335c3fbcc5cfd492b242",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_2/01_Figure2_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/cohorts/trials/analysis.ipynb",
+      "sha256": "d71040e7432152674cc459dccbbb4fa20e42f1c202fb6fa6b10086c81cf6b4fc",
+      "origin": "submitted repository, adapted to portable execution",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_6/01_Figure6_Analysis.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "notebooks/figures/figure2.ipynb",
+      "sha256": "1a3d077162bb23d5d219106597780df4e503ac2060f861ab7295d6edb0f66f41",
+      "origin": "submitted repository, adapted",
+      "repository": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+      "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+      "source_path": "notebooks/Figure_1/02_Figure1_Plotting.ipynb",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "tests/test_analysis.py",
+      "sha256": "4caf916a4c7e2467910510664114479368c55871e74b901a5ecec325c113197a",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "tests/test_analysis.py",
+      "source_sha256": "40b72fa43bd2d8b27add497a01a0db32fcc00b2be428d8ff02621a78cead654f"
+    },
+    {
+      "path": "tests/test_public_reproduction.py",
+      "sha256": "2437622f8f7d05dee945e7b5ee68564618cb7d9dc80eb8f9fa8b7abfe5337e25",
+      "origin": "previously assembled revision code, adapted where needed",
+      "bundle": "Mitoxy_Public_Data_Reproduction_Working_Copy_2026-11-23.zip",
+      "source_path": "tests/test_public_reproduction.py",
+      "source_sha256": "30305e5d7de06ec481cb789885c7197700cd0fe2a6710cd8e5e46eaff16eed48",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "config/GSE159115_sample_metadata.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "fedb5d375d4aff0da38c05a9261da3d621ce26c85de48d042a958a186056853f"
+    },
+    {
+      "path": "config/GSE210041_sample_metadata.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "9b4855876d0cf053803cb7da95b78bfc4ebc7ef6a738594ad9a5935a457b28df"
+    },
+    {
+      "path": "config/GSE235046_samples.csv",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "bfa93d5cb6bc8cb5d9ef098f4272ebf1ce28423521c1e9b51fdfc712bf521807"
+    },
+    {
+      "path": "config/base_repository.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "072d48ccaa5be7dadf66c6e81403aa3e78f2cbb100a3938e885851a23198df53"
+    },
+    {
+      "path": "config/custom_comparators.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "5600fd4da61b953ca99c84b3b7b27dffb89d942b46844e07652ec20e77f3107b"
+    },
+    {
+      "path": "config/genesets/comparators_human.gmt",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "0eed0f4592830cf90acd6597c32af68eeab1d2eb1b2ddcec5a4cd409377ae3cf"
+    },
+    {
+      "path": "config/genesets/enrichment_human.gmt",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "2b5784cf520f55256e301547964dd973416582544b7c6d69d13191dcaa671a5b"
+    },
+    {
+      "path": "config/genesets/enrichment_mouse.gmt",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "179a54861c7978fd73cd7f6528c40b23c77880ea380f837a8f67a3ec78e1550f"
+    },
+    {
+      "path": "config/liana_consensus_1.10.0.csv",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "8066a7737eb95dde061c8f5f99fa89db8d8600c3b4ed17bf08ec91a25e7c1980"
+    },
+    {
+      "path": "config/liana_resource.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "b81a7550e369dbaa195c99f46bb3e446dbd0cf4a867b0d4af32e39ab88106027"
+    },
+    {
+      "path": "config/manuscript_outputs.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "fc36f08301ab43d898c1731688f086bdb79115fad518114a51363b519d1f187b",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    },
+    {
+      "path": "config/original_public_source_manifest.csv",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "b3d6bf945a883b1ad7b29ab0947e0affbab03457c866338fe10cdc8825d2d464"
+    },
+    {
+      "path": "config/phosphosites.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "b7a6d041baa0ae9b0b6db98b997e1ca2897257a999d8266f797a8a59229c9e34"
+    },
+    {
+      "path": "config/public_sources.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "84972744e1b3968eb507b02199e3cf3fc835bc900e3bfab71a5922e7b39c2a5e"
+    },
+    {
+      "path": "config/signature45.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "b585c498bc662f66b9bf4c93c9d6c425437989f556de72d6c502bfe035400e02"
+    },
+    {
+      "path": "config/table_sources.json",
+      "origin": "generated for the public-data reconstruction",
+      "date": "2026-11-23",
+      "sha256": "85bf041de37c849b841fe344896375731df719e52b73e46fabe75d393b563d1d",
+      "adaptation": "Updated for the integrated public-data workflow; retained estimates are not used as computational inputs."
+    }
+  ],
+  "note": "Adaptations are not asserted to be byte-identical to source. Generated model implementations are documented in source and tested independently.",
+  "scope": "Executable code, tests and fixed configuration. User-supplied sources and newly generated implementations are identified. No historical result bundle is required at runtime."
+}

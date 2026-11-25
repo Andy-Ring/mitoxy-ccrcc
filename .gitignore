@@ -1,34 +1,14 @@
-notebooks/exploratory.ipynb
-figures/figure1/
-figures/figure_1/
-figures/figure_1_revised/
-figures/final_figures/
-
-# Public data are downloaded by the notebooks
-data/*
-!data/provenance/
-!data/provenance/**
-
-# Generated analysis outputs
-analysis/outputs/
-figures/output/
-outputs/
-
-# Large scientific files
-*.rds
-*.rda
-*.h5
-*.h5ad
-*.hdf5
-*.gz
-*.zip
-*.tar
-*.tar.gz
-*.xlsb
-
-# Temporary files
-.ipynb_checkpoints/
+data/raw/
+data/derived/
+data/processed/
+/results/
+/figures/
+/tables/
+work/
+.venv/
 __pycache__/
 *.py[cod]
-.DS_Store
-Thumbs.db
+.ipynb_checkpoints/
+*.partial
+*.egg-info/
+data/provenance/

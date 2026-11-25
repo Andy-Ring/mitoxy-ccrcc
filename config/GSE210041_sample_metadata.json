@@ -1,0 +1,38 @@
+[
+  {
+    "gsm": "GSM6415705",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415705/suppl/GSM6415705_GLMF1_filtered_feature_bc_matrix.h5",
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415705/suppl/GSM6415705_GLMF1_raw_feature_bc_matrix.h5",
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415705/suppl/GSM6415705_GLMF1_spatial.tar.gz"
+    ],
+    "characteristics": [
+      "disease state: clear-cell renal cell carcinoma",
+      "tissue: Kidney",
+      "sample type: Tumour",
+      "patient: Patient 1",
+      "disease stage: Stage IV",
+      "tumour grade: ISUP3",
+      "prior treatment: Nivolumab+Ipilimumab"
+    ],
+    "title": "Tumour 1 (T1)"
+  },
+  {
+    "gsm": "GSM6415706",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415706/suppl/GSM6415706_GLMF2_filtered_feature_bc_matrix.h5",
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415706/suppl/GSM6415706_GLMF2_raw_feature_bc_matrix.h5",
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6415nnn/GSM6415706/suppl/GSM6415706_GLMF2_spatial.tar.gz"
+    ],
+    "characteristics": [
+      "disease state: clear-cell renal cell carcinoma",
+      "tissue: Kidney",
+      "sample type: Tumour",
+      "patient: Patient 7",
+      "disease stage: Stage III",
+      "tumour grade: ISUP2",
+      "prior treatment: Naive"
+    ],
+    "title": "Tumour 7 (T7)"
+  }
+]

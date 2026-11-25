@@ -1,0 +1,9 @@
+{
+  "package": "liana",
+  "version": "1.10.0",
+  "resource": "consensus",
+  "file": "config/liana_consensus_1.10.0.csv",
+  "sha256": "8066a7737eb95dde061c8f5f99fa89db8d8600c3b4ed17bf08ec91a25e7c1980",
+  "source": "liana.resource.select_resource; packaged resource",
+  "terms": "Third-party interaction resources retain their source terms; cite LIANA and underlying resources."
+}

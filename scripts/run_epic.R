@@ -1,0 +1,15 @@
+args <- commandArgs(TRUE)
+stopifnot(length(args) == 3)
+# Load the checksum-verified upstream release directly; no package installation.
+tmp <- tempfile("epic-source-"); dir.create(tmp)
+untar(args[3], exdir=tmp)
+pkg <- list.dirs(tmp, recursive=FALSE)[1]
+for (f in list.files(file.path(pkg,"R"), pattern="[.]R$", full.names=TRUE)) source(f)
+for (f in list.files(file.path(pkg,"data"), pattern="[.]rda$", full.names=TRUE)) load(f)
+x <- as.matrix(read.delim(args[1], row.names=1, check.names=FALSE))
+stopifnot(all(is.finite(x)),all(x>=0))
+res <- EPIC(bulk=x,reference=TRef)
+write.csv(res$cellFractions,args[2])
+write.csv(res$fit.gof,paste0(args[2],".fit.csv"))
+writeLines(capture.output(sessionInfo()),paste0(args[2],".versions.txt"))
+unlink(tmp,recursive=TRUE)

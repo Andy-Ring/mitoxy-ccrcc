@@ -1,0 +1,178 @@
+[
+  {
+    "gsm": "GSM4819725",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819725/suppl/GSM4819725_SI_18854_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2005",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_18854"
+  },
+  {
+    "gsm": "GSM4819726",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819726/suppl/GSM4819726_SI_18856_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2006",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_18856"
+  },
+  {
+    "gsm": "GSM4819727",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819727/suppl/GSM4819727_SI_18855_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2006",
+      "tissue: Benign Adjacent",
+      "Sex: Male"
+    ],
+    "title": "SI_18855"
+  },
+  {
+    "gsm": "GSM4819728",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819728/suppl/GSM4819728_SI_19704_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2007",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_19704"
+  },
+  {
+    "gsm": "GSM4819729",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819729/suppl/GSM4819729_SI_19703_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2007",
+      "tissue: Benign Adjacent",
+      "Sex: Male"
+    ],
+    "title": "SI_19703"
+  },
+  {
+    "gsm": "GSM4819730",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819730/suppl/GSM4819730_SI_21255_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2014",
+      "tissue: Benign Adjacent Cortex",
+      "Sex: Female"
+    ],
+    "title": "SI_21255"
+  },
+  {
+    "gsm": "GSM4819731",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819731/suppl/GSM4819731_SI_21256_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2014",
+      "tissue: Benign Adjacent Medulla",
+      "Sex: Female"
+    ],
+    "title": "SI_21256"
+  },
+  {
+    "gsm": "GSM4819732",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819732/suppl/GSM4819732_SI_21561_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2016",
+      "tissue: Tumor",
+      "tumor subtype: Chromophobe RCC",
+      "Sex: Female"
+    ],
+    "title": "SI_21561"
+  },
+  {
+    "gsm": "GSM4819733",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819733/suppl/GSM4819733_SI_22369_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2017",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_22369"
+  },
+  {
+    "gsm": "GSM4819734",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819734/suppl/GSM4819734_SI_22368_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2017",
+      "tissue: Benign Adjacent",
+      "Sex: Male"
+    ],
+    "title": "SI_22368"
+  },
+  {
+    "gsm": "GSM4819735",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819735/suppl/GSM4819735_SI_22605_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2022",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_22605"
+  },
+  {
+    "gsm": "GSM4819736",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819736/suppl/GSM4819736_SI_22604_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2022",
+      "tissue: Benign Adjacent",
+      "Sex: Male"
+    ],
+    "title": "SI_22604"
+  },
+  {
+    "gsm": "GSM4819737",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819737/suppl/GSM4819737_SI_23459_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2023",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_23459"
+  },
+  {
+    "gsm": "GSM4819738",
+    "urls": [
+      "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4819nnn/GSM4819738/suppl/GSM4819738_SI_23843_filtered_gene_bc_matrices_h5.h5"
+    ],
+    "characteristics": [
+      "individual: Patient SS_2026",
+      "tissue: Tumor",
+      "tumor subtype: Clear Cell RCC",
+      "Sex: Male"
+    ],
+    "title": "SI_23843"
+  }
+]

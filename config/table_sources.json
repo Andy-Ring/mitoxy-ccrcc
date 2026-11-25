@@ -1,0 +1,362 @@
+[
+  {
+    "table": "S1",
+    "sheet": "TCGA comparator models",
+    "path": "results/bulk/TCGA_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "CPTAC comparator models",
+    "path": "results/bulk/CPTAC_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TRACERx comparator models",
+    "path": "results/bulk/TRACERx_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Clinical grade",
+    "path": "data/processed/figure_1_clean/panel_b_grade_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Clinical stage",
+    "path": "data/processed/figure_1_clean/panel_c_stage_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Cross molecular",
+    "path": "data/processed/figure_1_clean/panel_d_cptac_coherence.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Regional sampling",
+    "path": "data/processed/figure_1_clean/panel_e_tracerx_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TCGA purity",
+    "path": "data/processed/figure_2_clean/panels_a_b_purity_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TCGA matched modules",
+    "path": "data/processed/figure_2_clean/panel_c_locked_matched_null.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TCGA PC robustness",
+    "path": "data/processed/figure_2_clean/panel_d_global_pc_robustness.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Source contrasts",
+    "path": "data/processed/figure_7_clean/panel_d_contrasts.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Source matched modules",
+    "path": "data/processed/figure_7_clean/panel_e_specificity.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Source GSEA",
+    "path": "results/source_de/GSEA_all.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TRACERx models",
+    "path": "results/TRACERx_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TRACERx loadings",
+    "path": "results/TRACERx_PC1_loadings.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Evolution dispersion",
+    "path": "results/evolution/ITH_dispersion.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Evolution reverse PC1",
+    "path": "results/evolution/reverse_PC1.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Immune models",
+    "path": "results/immune/TCGA_immune_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Immune VIF",
+    "path": "results/immune/TCGA_immune_VIF.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Cellular paired",
+    "path": "results/GSE159115/macrophage_tumor_paired.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Cellular labels",
+    "path": "results/GSE159115/celltype_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "mTOR RNA protein",
+    "path": "results/proteomics/mTOR_RNA_protein.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Phosphosites",
+    "path": "results/proteomics/seven_phosphosites.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Phosphosite identities",
+    "path": "results/proteomics/phosphosite_identity_mapping.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Spatial archived",
+    "path": "results/GSE210041/archived_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Spatial hypoxia",
+    "path": "results/GSE210041/hypoxia_coupling.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Spatial ranges",
+    "path": "results/GSE210041/definition_ranges.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Spatial grid",
+    "path": "results/GSE210041/spatial_grid_all_definitions.csv.gz"
+  },
+  {
+    "table": "S2",
+    "sheet": "TCGA sensitivity",
+    "path": "results/TCGA_sensitivities/models.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "Competitive Hallmark",
+    "path": "results/pathways/TCGA_Hallmark_competitive_sample_permutation.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "Patient Hallmark",
+    "path": "results/pathways/TCGA_Hallmark_sample_permutation.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "Equal45 models",
+    "path": "results/signatures/equal45_models.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "Equal45 correlations",
+    "path": "results/signatures/equal45_correlations.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN within arm",
+    "path": "results/JAVELIN/within_arm_PFS.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN context",
+    "path": "results/JAVELIN/context_correlations.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN clusters",
+    "path": "results/JAVELIN/cluster_summary.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN partial ranks",
+    "path": "results/JAVELIN/partial_coupling.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN subgroups",
+    "path": "data/processed/figure_6_clean/panel_a_2d_subgroups.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN interactions",
+    "path": "data/processed/figure_6_clean/panel_b_full_fdr_family.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "JAVELIN context interactions",
+    "path": "data/processed/figure_6_clean/panel_c_context_interactions.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "CheckMate within arm",
+    "path": "results/CheckMate025/within_arm_models.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "CheckMate interactions",
+    "path": "results/CheckMate025/interaction_models.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "ClearCode34 models",
+    "path": "results/TCGA_sensitivities/ClearCode34_adjusted_models.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "LIANA summary",
+    "path": "results/LIANA/main/macro_to_T_per_patient_summary.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "LIANA interactions",
+    "path": "results/LIANA/main/macro_to_T_interaction_consistency.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "LIANA UMI sensitivity",
+    "path": "results/LIANA/umi_adjusted/macro_to_T_interaction_consistency.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "LIANA ligands",
+    "path": "results/LIANA/main/macrophage_ligands_High_vs_Low.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "LIANA T programs",
+    "path": "results/LIANA/main/patient_T_programs_vs_macrophage_Equal4.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "CellChat summary",
+    "path": "results/LIANA/cellchat/cellchat_macro_to_T_summary.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "CellChat interactions",
+    "path": "results/LIANA/cellchat/cellchat_interaction_consistency.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Components",
+    "path": "results/architecture/common_patient_components.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "E-MTAB components",
+    "path": "results/architecture/emtab_components.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Inflammatory coupling",
+    "path": "results/architecture/inflammatory_coupling.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "PC1 concordance",
+    "path": "results/architecture/pc1_concordance.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Published membership",
+    "path": "results/signatures/ssGSEA45_models.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Immune subtypes",
+    "path": "results/subtypes/immune_subtype_models.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "EPIC models",
+    "path": "results/EPIC/adjusted_models.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "EPIC coverage",
+    "path": "results/EPIC/coverage.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Cell compartments",
+    "path": "results/GSE159115/broad_compartment_tests.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "mTOR covariate models",
+    "path": "results/proteomics/adjusted_mTOR_RNA.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Kinase models",
+    "path": "results/proteomics/kinase_activity_models.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "Kinase coverage",
+    "path": "results/proteomics/kinase_coverage.csv"
+  },
+  {
+    "table": "S3",
+    "sheet": "CPTAC proliferation",
+    "path": "results/CPTAC_proliferation_models.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TRACERx clinical",
+    "path": "data/processed/supplementary_figure_s1/panel_a_tracerx_clinical.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "E-MTAB adjusted",
+    "path": "data/processed/supplementary_figure_s1/panel_b_emtab_adjusted.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "E-MTAB survival",
+    "path": "data/processed/supplementary_figure_s1/panel_c_emtab_survival.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "TCGA survival",
+    "path": "data/processed/supplementary_figure_s1/panel_d_tcga_survival.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "ClearCode34 benchmark",
+    "path": "results/TCGA_sensitivities/ClearCode34_benchmark.csv"
+  },
+  {
+    "table": "S2",
+    "sheet": "ClearCode34 score comparison",
+    "path": "results/TCGA_sensitivities/ClearCode34_score_summary.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Regional variance",
+    "path": "data/processed/figure_4_clean/panel_c_variance_partition.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Gene regional variation",
+    "path": "data/processed/supplementary_figure_s4/panel_a_gene_regional_variation.csv"
+  },
+  {
+    "table": "S1",
+    "sheet": "Evolution omnibus",
+    "path": "data/processed/supplementary_figure_s4/panel_b_evolution_omnibus.csv"
+  }
+]

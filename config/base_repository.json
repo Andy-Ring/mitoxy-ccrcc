@@ -1,0 +1,25 @@
+{
+  "url": "https://github.com/Andy-Ring/mitoxy-ccrcc",
+  "commit": "fce9ade29ef6de731407a7fcf14098f30a272cd3",
+  "original_notebook_directory_map": {
+    "Figure_1": "clinical",
+    "Figure_2": "tcga",
+    "Figure_3": "molecular",
+    "Figure_4": "evolution",
+    "Figure_5": "immune_context",
+    "Figure_6": "trials",
+    "Figure_7": "source",
+    "Figure_S1": "survival",
+    "Figure_S2": "competing_programs",
+    "Figure_S3": "architecture",
+    "Figure_S4": "evolution_sensitivity",
+    "Figure_S5": "paired_cellular"
+  },
+  "reconstructed_implementations": {
+    "Figure_3_molecular": "src/mitoxy/proteomics.py",
+    "Figure_5_immune": "src/mitoxy/immune.py; src/mitoxy/extensions.py; src/mitoxy/supplementary_plots.py",
+    "Figure_S2_comparators": "src/mitoxy/bulk.py",
+    "Figure_S3_architecture": "src/mitoxy/extensions.py; src/mitoxy/analysis.py",
+    "Figure_S5_paired_cellular": "src/mitoxy/cellular.py"
+  }
+}
